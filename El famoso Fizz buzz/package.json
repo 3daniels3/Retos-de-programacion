@@ -1,0 +1,14 @@
+{
+  "name": "el-famoso-fizz-buzz",
+  "version": "1.0.0",
+  "description": "ejercicio \"FizzBuzz\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Daniels",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}

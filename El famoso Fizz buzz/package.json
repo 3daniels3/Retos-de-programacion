@@ -4,7 +4,8 @@
   "description": "ejercicio \"FizzBuzz\"",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "tsc": "tsc --target es2015 index.ts ",
+    "start": "node index.js"
   },
   "author": "Daniels",
   "license": "ISC",
